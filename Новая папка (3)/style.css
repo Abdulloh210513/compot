@@ -1,0 +1,116 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    font-family: "Roboto Mono", monospace;
+    box-sizing: border-box;
+}
+
+.link {
+    display: flex;
+    gap: 58px;
+    text-shadow: 0px 7px 4px rgba(55, 26, 171, 0.6);
+    margin-left: 434px;
+}
+
+h2 {
+    color: black;
+}
+
+.navbar {
+    display: flex;
+    margin-top: 118px;
+    margin-left: 258px;
+}
+
+.babah {
+    margin: 30px;
+}
+
+.boxone {
+    color: whitesmoke;
+    width: 133px;
+    height: 133px;
+    box-shadow: 1px 7px 24px 0px rgba(47, 198, 60, 0.75);
+}
+
+.boxtwo {
+    color: whitesmoke;
+    width: 133px;
+    height: 133px;
+    box-shadow: 1px 7px 29px 0px rgba(100, 100, 111, 0.75);
+}
+
+.boxthree {
+    color: whitesmoke;
+    width: 133px;
+    height: 133px;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.boxfour {
+    color: whitesmoke;
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.boxfive {
+    color: whitesmoke;
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.boxsix {
+    color: whitesmoke;
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 3px 8px 0px rgba(255, 0, 0, 0.75);
+
+}
+
+.boxseven {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.75);
+
+}
+
+.boxeight {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 7px 36px 0px rgba(100, 100, 111, 0.75);
+}
+
+.boxnine {
+    width: 133px;
+    height: 133px;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+.right {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 97px;
+    margin-left: 57px;
+    margin-bottom: 55px;
+}
+
+.left {
+    position: relative;
+    margin-left: 258px;
+}
+
+.main {
+    margin-top: 49px;
+    display: flex;
+}
+
+.man {
+    position: absolute;
+    left: 250px;
+    top: -20px;
+}
